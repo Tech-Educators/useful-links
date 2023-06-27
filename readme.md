@@ -62,19 +62,38 @@ https://pythontutor.com/visualize.html#mode=edit
 
 Eloquent JavaScript - https://eloquentjavascript.net/ 
 
-Paid books - 
+
+### Paid books =>
+
 https://www.manning.com/books/the-joy-of-javascript -  advanced topics. 
 
 ---
 ## Computer Sciencey stuff
 
-Data-structures - https://okso.app/showcase/data-structures // https://github.com/trekhleb/javascript-algorithms
+Data-structures - https://okso.app/showcase/data-structures 
+//
+ https://github.com/trekhleb/javascript-algorithms
 
 ---
 ## Youtube Channels
 https://www.youtube.com/@KevinPowell
+
 https://www.youtube.com/@WebDevSimplified
+
 https://www.youtube.com/@NetNinja
+
+---
+
+## Games 
+
+Elevator Saga (JS) - https://play.elevatorsaga.com/
+
+
+Screeps (recommend having some experience) - https://screeps.com/
+
+Flexbox Defense (tower defense with flexbox) - http://www.flexboxdefense.com/
+
+CodinGame (minigames - multiple languages) - https://www.codingame.com/start
 
 ---
 ## Learn to touch type 
