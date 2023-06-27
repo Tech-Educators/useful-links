@@ -1,6 +1,16 @@
+# Some useful links to help your on your journey! 
+
+(҂◡_◡) ᕤ
+
+---
+
+## Tools to use while coding
+
 Chrome DEV tools (really worth learning!) ->  https://developer.chrome.com/docs/devtools/
 Visualise code -> https://pythontutor.com/visualize.html#mode=edit
 
+
+--- 
 ## Javascript 
 
 Javascript Cheatsheet - https://mbeaudru.github.io/modern-js-cheatsheet/
@@ -24,11 +34,13 @@ https://res.cloudinary.com/css-tricks/image/upload/v1614720491/Beautiful-HTML_gk
 WTF JS? A fun list of weird bits about how JS works under the hood. 
 https://github.com/denysdovhan/wtfjs
 
+---
 ## Node.js
 
 Some fun interactive lessons for node.js https://nodeschool.io/
 
 
+---
 ## CSS - 
 https://flexboxfroggy.com/ - FlexBox
 CSS Diner
@@ -45,6 +57,7 @@ https://www.smashingmagazine.com/2021/10/guide-debugging-css/
 Javascript Visualiser - steps through your code line by line. 
 https://pythontutor.com/visualize.html#mode=edit
 
+---
 ## Books 
 
 Eloquent JavaScript - https://eloquentjavascript.net/ 
@@ -52,17 +65,18 @@ Eloquent JavaScript - https://eloquentjavascript.net/
 Paid books - 
 https://www.manning.com/books/the-joy-of-javascript -  advanced topics. 
 
+---
 ## Computer Sciencey stuff
 
 Data-structures - https://okso.app/showcase/data-structures // https://github.com/trekhleb/javascript-algorithms
 
-
+---
 ## Youtube Channels
 https://www.youtube.com/@KevinPowell
 https://www.youtube.com/@WebDevSimplified
 https://www.youtube.com/@NetNinja
 
-
+---
 ## Learn to touch type 
 https://monkeytype.com/
 https://www.typingclub.com/
