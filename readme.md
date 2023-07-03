@@ -1,4 +1,4 @@
-# Some useful links to help your on your journey! 
+# Some useful links to help you on your journey! 
 
 (҂◡_◡) ᕤ
 
@@ -11,11 +11,11 @@ Visualise code -> https://pythontutor.com/visualize.html#mode=edit
 
 
 --- 
-## Javascript 
+## Javascript :
 
 Javascript Cheatsheet - https://mbeaudru.github.io/modern-js-cheatsheet/
 
-A good glossary of JS concepts, but isn't the most beginner friendly - use this if you want more clarification. 
+A good glossary of JS concepts, but it isn't the most beginner friendly - use this if you want more clarification. 
 https://auth0.com/blog/glossary-of-modern-javascript-concepts/
 https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/
 
@@ -28,27 +28,23 @@ Interactive sites and exercises ->
 https://exercism.org/tracks/javascript
 https://javascript30.com/
 
-HTML (how to lay out your html)
-https://res.cloudinary.com/css-tricks/image/upload/v1614720491/Beautiful-HTML_gkp8eh.png
 
 WTF JS? A fun list of weird bits about how JS works under the hood. 
 https://github.com/denysdovhan/wtfjs
 
 ---
-## Node.js
+## CSS & HTML :
 
-Some fun interactive lessons for node.js https://nodeschool.io/
+HTML (how to lay out your HTML)
+https://res.cloudinary.com/css-tricks/image/upload/v1614720491/Beautiful-HTML_gkp8eh.png
 
-
----
-## CSS - 
 https://flexboxfroggy.com/ - FlexBox
 CSS Diner
 
-Learn & generate flex layouts
+Learn & generate flex layouts -
 https://the-echoplex.net/flexyboxes/
 
-CSS Grid creator. 
+CSS Grid Creator - 
 https://cssgrid-generator.netlify.app/
 
 How to debug your CSS - 
@@ -58,24 +54,76 @@ Javascript Visualiser - steps through your code line by line.
 https://pythontutor.com/visualize.html#mode=edit
 
 ---
-## Books 
+## Node.js :
+
+Some fun interactive lessons for node.js https://nodeschool.io/
+
+---
+
+## API's (Application Programming Interface(s)) & Express:
+
+What we'll be using for our APIS - https://expressjs.com/
+
+If you're unsure what is going on when we're writing all these `.get` and `.post` methods, I recommend reading the express docs as they go over this in an easy to read way - go through each section. 
+https://expressjs.com/en/guide/routing.html
+
+
+A list of public API's - https://github.com/toddmotto/public-apis
+
+---
+## React :
+
+Start here: 
+https://react.dev/learn
+
+Interactive tutorials - https://scrimba.com/learn/learnreact
+
+Massive collection of react related stuff - Good for getting an overview of the ecosystem - https://github.com/enaqx/awesome-react
+
+
+
+---
+
+## Testing 
+
+JS and React - Jest is a popular tool - https://jestjs.io/
+
+Intro to Jest - https://www.youtube.com/watch?v=FgnxcUQ5vho
+
+
+Intro to software testing -> https://www.test-institute.org/Introduction_To_Software_Testing.php
+
+
+
+
+---
+## Project Planning, Architecture and (Programming) Philosophy :
+
+https://github.com/elsewhencode/project-guidelines
+
+
+---
+## Books :
 
 Eloquent JavaScript - https://eloquentjavascript.net/ 
 
 
 ### Paid books =>
 
-https://www.manning.com/books/the-joy-of-javascript -  advanced topics. 
+The Joy of Javascript - More advanced topics, deep dive : https://www.manning.com/books/the-joy-of-javascript
+
+The Pragmatic Programmer (great when you're feeling more confident about the intermediate topics and want to think about bigger ogranisational ideas)
+https://www.amazon.co.uk/Pragmatic-Programmer-Andrew-Hunt/dp/020161622X
 
 ---
-## Computer Sciencey stuff
+## Computer Sciencey stuff :
 
 Data-structures - https://okso.app/showcase/data-structures 
 //
  https://github.com/trekhleb/javascript-algorithms
 
 ---
-## Youtube Channels
+## Youtube Channels :
 https://www.youtube.com/@KevinPowell
 
 https://www.youtube.com/@WebDevSimplified
@@ -84,18 +132,18 @@ https://www.youtube.com/@NetNinja
 
 ---
 
-## Games 
+## Games :
 
 Elevator Saga (JS) - https://play.elevatorsaga.com/
 
 
 Screeps (recommend having some experience) - https://screeps.com/
 
-Flexbox Defense (tower defense with flexbox) - http://www.flexboxdefense.com/
+Flexbox Defence (tower defense with flexbox) - http://www.flexboxdefense.com/
 
 CodinGame (minigames - multiple languages) - https://www.codingame.com/start
 
 ---
-## Learn to touch type 
+## Learn to touch type :
 https://monkeytype.com/
 https://www.typingclub.com/
