@@ -32,6 +32,14 @@ https://javascript30.com/
 WTF JS? A fun list of weird bits about how JS works under the hood. 
 https://github.com/denysdovhan/wtfjs
 
+### Objects, Constructor Functions and the 'this' keyword. 
+
+A deep dive - https://blog.kevinchisholm.com/javascript/the-javascript-this-keyword-deep-dive-constructor-functions/#:~:text=The%20JavaScript%20%E2%80%9Cthis%E2%80%9D%20keyword%20has,when%20the%20constructor%20is%20instantiated.
+
+Good video on constructors - https://www.youtube.com/watch?v=maDH9Z8XiF0
+
+Methods vs Functions - https://www.youtube.com/watch?v=4r72b1ScPLY
+
 ---
 ## CSS & HTML :
 
@@ -80,6 +88,14 @@ Interactive tutorials - https://scrimba.com/learn/learnreact
 
 Massive collection of react related stuff - Good for getting an overview of the ecosystem - https://github.com/enaqx/awesome-react
 
+React useState hook (he has a series on all the hooks) - https://www.youtube.com/watch?v=O6P86uwfdR0
+
+
+---
+
+## The MERN stack 
+
+Good, but long series of videos on the MERN stack, and how they fit together - https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
 
 
 ---
@@ -129,6 +145,8 @@ https://www.youtube.com/@KevinPowell
 https://www.youtube.com/@WebDevSimplified
 
 https://www.youtube.com/@NetNinja
+
+https://www.youtube.com/@TraversyMedia/videos (in particular, look at his playlist videos)
 
 ---
 
