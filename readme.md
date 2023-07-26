@@ -9,11 +9,22 @@
 Chrome DEV tools (really worth learning!) ->  https://developer.chrome.com/docs/devtools/
 Visualise code -> https://pythontutor.com/visualize.html#mode=edit
 
+## GIT  
+  
+Git cheatsheets
+https://i.redd.it/8341g68g1v7y.png/
+https://www.git-tower.com/blog/command-line-cheat-sheet/
+
+Git learning games
+https://ohmygit.org/
 
 --- 
 ## Javascript :
 
-Javascript Cheatsheet - https://mbeaudru.github.io/modern-js-cheatsheet/
+Javascript Cheatsheets - 
+https://mbeaudru.github.io/modern-js-cheatsheet/
+https://ilovecoding.org/blog/js-cheatsheet/
+https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id
 
 A good glossary of JS concepts, but it isn't the most beginner friendly - use this if you want more clarification. 
 https://auth0.com/blog/glossary-of-modern-javascript-concepts/
@@ -58,6 +69,10 @@ https://cssgrid-generator.netlify.app/
 How to debug your CSS - 
 https://www.smashingmagazine.com/2021/10/guide-debugging-css/
 
+Cheatsheets - 
+https://www.w3schools.com/cssref/css_selectors.php/
+https://www.codecademy.com/resources/docs/css
+
 Javascript Visualiser - steps through your code line by line. 
 https://pythontutor.com/visualize.html#mode=edit
 
@@ -81,7 +96,7 @@ A list of public API's - https://github.com/toddmotto/public-apis
 ---
 ## React :
 
-Start here: 
+Start here. The new documentation is really focused on *teaching* React: 
 https://react.dev/learn
 
 Interactive tutorials - https://scrimba.com/learn/learnreact
